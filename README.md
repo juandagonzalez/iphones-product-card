@@ -1,4 +1,4 @@
-# t
+# iphone's Product Card with a few improvements
 
 ## Project setup
 ```
